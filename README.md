@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izzyswe&label=Profile%20views&color=0e75b6&style=flat" alt="izzyswe" /> </p>
-
+<br>
 - 🔭 I’m currently working on [NotePad Application](https://github.com/totallyrens/thinkbin)
 
 - 🌱 I’m currently learning **React.js & Typescript**
