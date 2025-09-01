@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">A passionate fullstack developer from Canada</h3>
+<h3 align="center">A passionate full-stack developer from Canada</h3>
 
 <br>
-- 🔭 I’m currently working on [NotePad Application](https://github.com/totallyrens/thinkbin)
 
 - 🌱 I’m currently learning **React.js & Typescript**
+
+- 🧠 I write python code on the side for fun and keep myself busy
 
 - 🤝 I’m looking for help with [BeanVim](https://github.com/izzyswe/BeanVim)
 
@@ -12,9 +13,6 @@
 
 - 📝 I regularly write articles on [izzyswe.ca](izzyswe.ca)
 
-- 📫 How to reach me **IsaacKim199@gmail.com**
-
-- ⚡ Fun fact **I Think i am hilarious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
