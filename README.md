@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/izzyswe](https://github.com/izzyswe)
 
-- 📝 I regularly write articles on [izzyswe.ca](izzyswe.ca)
+- 💼 My Portfolio is on [izzyswe.ca](izzyswe.ca) 
+
+- 📝 I will be soon redoing my whole portfolio and wrote articles on there.
 
 
 <h3 align="left">Connect with me:</h3>
