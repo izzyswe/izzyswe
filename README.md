@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **React.js & Typescript**
+- 🌱 I’m currently learning **React.js, Go & Typescript**
 
 - 🧠 I write python code on the side for fun and keep myself busy
 
