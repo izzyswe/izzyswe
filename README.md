@@ -7,7 +7,7 @@
 
 - 🧠 I write python code on the side for fun and keep myself busy
 
-- 🤝 I’m looking for help with [BeanVim](https://github.com/izzyswe/BeanVim)
+- 🤝 I’m looking for help with [BeanVim](https://github.com/izzyswe/BeanVim) as well as [betterfx.js](https://github.com/izzyswe/betterfx.js)
 
 - 👨‍💻 All of my projects are available at [https://github.com/izzyswe](https://github.com/izzyswe)
 
